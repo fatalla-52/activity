@@ -54,7 +54,7 @@ miss our annual summer festival for fun, food, and festivities for all ages.</p>
 <br> 
  </main>
 
-Annual Summer Festival: 
+<p><strong>Annual Summer Festival: </strong></p>
 Starts: July 20, 2050 
  </div> 
  <div> 
