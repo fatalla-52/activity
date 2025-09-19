@@ -10,7 +10,7 @@
 <center>
     <img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Harbor Light Community Center 
 Logo"> <br>
-    <h1>>Harbor Light Community Center</h1>
+    <h1>Harbor Light Community Center</h1>
   <p>Welcome to Harbor Light Community Center</p>
  </center> 
  </header>
